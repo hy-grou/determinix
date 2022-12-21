@@ -1,0 +1,2 @@
+# determinix
+data anggota
